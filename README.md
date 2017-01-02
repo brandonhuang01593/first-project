@@ -10,7 +10,7 @@ First Project （第一个项目）
 3. 规划项目实施：人力资源，基础设施，项目计划（project plan）和工作分解结构（Work Breakdown Structure，WBS），提交，工具人力资源：团队组成，沟通、管理渠道
  1. 基础设施：硬件，网络，安全性要求，办公场地
  2. 工具：沟通工具，源代码管理工具，软件开发工具
-  1. 源代码管理工具：github / svn 
+  1. 源代码管理工具：github | svn 
   2. 软件开发工具
    1. Java: Eclipse 64位 Mars，JDK 8,Tomcat 8 
    2. 数据库：MySQL 5.7.17 
@@ -41,8 +41,8 @@ community
 * Chrome 浏览器
 * github/svn账号
 
-***
-4. 软件开发过程
+
+软件开发过程
  
 ## 软件开发过程 (SDLC:Software Development Lifecycle)：
 1. 需求分析
