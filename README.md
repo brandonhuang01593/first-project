@@ -65,12 +65,13 @@ community(社区的，免费)  cluster (集群)
 ETA: 预计完成时间
 
 1. 环境搭建Environment Setup (JW, HK) ETA: Jan 8
-  + 准备一台电脑 
-  + 安装软件
-  + github账号
+    + 准备一台电脑 
+    + 安装软件
+    + github账号
   
-2. 在github上创建一个项目 (HK)  ETA: Jan 8
-  + 1/1: Done. brandonhuang01593/first-project 
+2. 在github上创建一个项目 (HK)  ETA: Jan 8 
+    * 1/1: Done. brandonhuang01593/first-project 
+    
 3. 在github上下载一个项目 (JW)  ETA: Jan 8
 4. 完成数据库设计 (JW)  ETA: Jan 15
 5. 搭框架 (JW) ETA: Jan 15
