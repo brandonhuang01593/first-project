@@ -3,11 +3,14 @@
 
 First Project （第一个项目）
 
-## 项目过程 (Project Process)：
+## 1. 项目过程 (Project Process)：
 
-1. 售前：系统大致需求，需求文档（FS, functional requirement），时间要求， 对方希望你提供方案，多少钱，你觉得的时间， 你可以去问预算
-2. 签合同：验收标准和付款条约，双方认可的需求文档
-3. 规划项目实施：人力资源，基础设施，项目计划（project plan）和工作分解结构（Work Breakdown Structure，WBS），提交，工具人力资源：团队组成，沟通、管理渠道
+### 1.1 售前
+    系统大致需求，需求文档（FS, functional requirement），时间要求， 对方希望你提供方案，多少钱，你觉得的时间， 你可以去问预算
+### 1.2 签合同
+    验收标准和付款条约，双方认可的需求文档
+### 1.3 规划项目实施
+    人力资源，基础设施，项目计划（project plan）和工作分解结构（Work Breakdown Structure，WBS），提交，工具人力资源：团队组成，沟通、管理渠道
  1. 基础设施：硬件，网络，安全性要求，办公场地
  2. 工具：沟通工具，源代码管理工具，软件开发工具
      1. 源代码管理工具：github | svn 
@@ -42,9 +45,7 @@ community
 * github/svn账号
 
 
-软件开发过程
- 
-## 软件开发过程 (SDLC:Software Development Lifecycle)：
+### 1.4 软件开发过程 (SDLC: Software Development Lifecycle)
 1. 需求分析
 2. 概要设计 （系统架构SSH + bootstrap，数据库设计，功能模块的划分）
 3. 详细设计 3
@@ -58,9 +59,11 @@ community
 11. 写release notes
 12. 用户接受度测试
 13. 部署上线
- 
 
-## 行动项目Action Items 
+### 1.5 项目验收，后期维护，收清款项
+
+
+## 2.行动项目Action Items 
 ETA: 预计完成时间
 
 1. 环境搭建Environment Setup (JW, HK) ETA: Jan 8
@@ -69,7 +72,7 @@ ETA: 预计完成时间
   + github账号
   
 2. 在github上创建一个项目 (HK)  ETA: Jan 8
-    1/1: Done. brandonhuang01593/first-project 
+  + 1/1: Done. brandonhuang01593/first-project 
 3. 在github上下载一个项目 (JW)  ETA: Jan 8
 4. 完成数据库设计 (JW)  ETA: Jan 15
 5. 搭框架 (JW) ETA: Jan 15
