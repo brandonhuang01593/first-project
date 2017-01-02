@@ -10,8 +10,8 @@ First Project （第一个项目）
 3. 规划项目实施：人力资源，基础设施，项目计划（project plan）和工作分解结构（Work Breakdown Structure，WBS），提交，工具人力资源：团队组成，沟通、管理渠道
   * 基础设施：硬件，网络，安全性要求，办公场地
   * 工具：沟通工具，源代码管理工具，软件开发工具
-    + 源代码管理工具：github / svn
-      + 软件开发工具：
+    ** 源代码管理工具：github / svn
+    ** 软件开发工具
             * Java: Eclipse 64位 Mars，JDK 8,Tomcat 8
             * 数据库：MySQL 5.7.17
             * 前端：Webstorm （收费），Sublime(免费)
@@ -35,28 +35,28 @@ community
 
  
 需要安装的前端相关软件
-Webstorm
-Chrome 浏览器
-github/svn账号
+* Webstorm
+* Chrome 浏览器
+* github/svn账号
 
  
 ## 软件开发过程 (SDLC:Software Development Lifecycle)：
-需求分析
-概要设计 （系统架构SSH + bootstrap，数据库设计，功能模块的划分）
-详细设计 3
-环境准备 2
-完成数据库设计 3
-搭框架
-写功能模块的代码  1
-单元测试 3
-系统测试
-集成测试
-写release notes
-用户接受度测试
-部署上线
+1. 需求分析
+2. 概要设计 （系统架构SSH + bootstrap，数据库设计，功能模块的划分）
+3. 详细设计 3
+4. 环境准备 2
+5. 完成数据库设计 3
+6. 搭框架
+7. 写功能模块的代码  1
+8. 单元测试 3
+9. 系统测试
+10. 集成测试
+11. 写release notes
+12. 用户接受度测试
+13. 部署上线
  
 
-行动项目Action Items 
+## 行动项目Action Items 
 ETA: 预计完成时间
 
 1. 环境搭建Environment Setup (JW, HK) ETA: Jan 8
